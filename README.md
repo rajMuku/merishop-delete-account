@@ -33,7 +33,7 @@
   </style>
 </head>
 <body>
-<h2> Data Editing and Deletion</h2
+<h2> Data Editing and Deletion </h2
 <p>After creating a shop, you can <strong>edit certain information</strong> such as:</p>
 <ul>
   <li>Shop Name</li>
@@ -50,3 +50,10 @@
 <p>We are fully committed to data privacy and comply with all applicable laws and regulations regarding user data collection, access, modification, and deletion. Your information is handled with utmost security and respect.</p>
 <p>If you face any issue about deletion you can contact on merishopapp.in@gmail.com  . </p>
   
+<footer>
+  <p> Mr. Empire</p>
+  <p> Address: Udaypur, Bijnor, Uttar Pradesh, India</p>
+</footer>
+
+</body>
+</html>
