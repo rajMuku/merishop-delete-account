@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -33,7 +33,7 @@
   </style>
 </head>
 <body>
-<h2> Data Editing and Deletion </h2
+<h1> Data Editing and Deletion </h1>
 <p>After creating a shop, you can <strong>edit certain information</strong> such as:</p>
 <ul>
   <li>Shop Name</li>
