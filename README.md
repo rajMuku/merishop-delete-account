@@ -34,6 +34,7 @@
 </head>
 <body>
 <h1> Data Editing and Deletion </h1>
+  <p><strong>Effective Date:</strong> June 15, 2025</p>
 <p>After creating a shop, you can <strong>edit certain information</strong> such as:</p>
 <ul>
   <li>Shop Name</li>
