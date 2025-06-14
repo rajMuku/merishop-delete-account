@@ -33,7 +33,7 @@
   </style>
 </head>
 <body>
-<h2>8. Data Editing and Deletion</h2
+<h2> Data Editing and Deletion</h2
 <p>After creating a shop, you can <strong>edit certain information</strong> such as:</p>
 <ul>
   <li>Shop Name</li>
