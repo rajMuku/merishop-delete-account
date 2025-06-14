@@ -1,0 +1,1 @@
+# merishop-delete-account
